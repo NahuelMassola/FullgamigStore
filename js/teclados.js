@@ -39,7 +39,7 @@ let productos = [
     {   id:8,
         nombre: "Teclado Redragon Fizz Pro K616 ",
         precio: 7360 ,
-        imagen: "../img/tecladofizzPRO.jpg",
+        imagen: "../img/tecladofizzpro.jpg",
     }
 ];
 
