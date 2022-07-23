@@ -1,0 +1,102 @@
+.container nav {
+  background-color: rgb(255, 255, 255);
+  border-bottom: rgb(0, 0, 0) solid 1px;
+}
+
+.item {
+  list-style: none;
+}
+
+.navbar {
+  background-color: white;
+  border-bottom: solid 1px;
+}
+
+.ul-footer li {
+  list-style: none;
+}
+.ul-footer li a {
+  text-decoration: none;
+}
+
+.footer__full {
+  padding-top: 1rem;
+}
+
+.redes {
+  padding: 1rem;
+}
+
+.redess {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.info-registo {
+  color: rgb(8, 8, 8);
+  height: 700px;
+  font-size: 5rem;
+  text-align: center;
+}
+
+.container--productos {
+  background: linear-gradient(rgb(21, 21, 21), rgb(74, 64, 64));
+}
+
+.img-productos {
+  transition: 1s;
+}
+.img-productos:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.titulo__productos {
+  color: rgb(255, 255, 255);
+}
+.titulo__productos:hover {
+  color: rgb(43, 0, 128);
+}
+
+.card-img {
+  transition: 1s;
+  padding: 1rem;
+}
+
+.card-img:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.card- {
+  width: 250px;
+}
+
+.card-nombre {
+  font-size: 1.6rem;
+}
+
+.titulo-fincompra {
+  font-size: 3rem;
+  color: white;
+  background-color: black;
+}
+
+.titulo {
+  font-size: 4rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.info-carrito {
+  font-size: 1rem;
+}
+
+.texto-fincompra {
+  background-color: rgb(255, 255, 255);
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+}
+
+/*# sourceMappingURL=style.css.map */

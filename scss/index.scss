@@ -1,0 +1,19 @@
+.container--productos {
+    background: linear-gradient(rgb(21, 21, 21), rgb(74, 64, 64));
+    }
+
+  .img-productos {
+    transition: 1s;
+
+    &:hover {
+     transform: scale(1.1, 1.1);
+    }
+  }
+
+  .titulo__productos {
+     color: rgb(255, 255, 255);
+     &:hover { 
+       color: rgb(43, 0, 128);
+     }
+  }
+  

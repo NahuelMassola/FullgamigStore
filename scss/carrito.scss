@@ -1,0 +1,42 @@
+.card-img { 
+    
+    transition: 1s;
+    padding: 1rem;
+}
+
+.card-img:hover {
+    transform: scale(1.1, 1.1);
+  }
+
+
+.card- {
+   width: 250px;
+}
+
+.card-nombre {
+    font-size: 1.6rem;
+}
+
+.titulo-fincompra {
+    font-size: 3rem;
+    color: white;
+    background-color: black;
+}
+
+.titulo {
+    font-size: 4rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.info-carrito {
+    font-size: 1rem;
+}
+
+.texto-fincompra {
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+}
