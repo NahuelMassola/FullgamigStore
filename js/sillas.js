@@ -52,7 +52,7 @@ function renderizarProductos() {
     
     for (let producto of productos) {
         contenido += `<div class="col-md-6 col-lg-3 g-5">
-        <div class="card- border-0">
+        <div class="card border-0">
             <img src="${producto.imagen}" class="card-img" alt="${producto.nombre}">
             <div class="card-body">
               <h2 class="card-nombre text-center">${producto.nombre}</h2>
