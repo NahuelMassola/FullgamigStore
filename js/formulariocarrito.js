@@ -15,34 +15,33 @@ function validarRegistro () {
     let nuevoregisto = new Registro (nombre, telefono , email , direccion);
     console.log(nuevoregisto);
     
-    
-    
+
     if (nombre === "") {
-      resultado.innerHTML =  "<p class='text-white bg-danger text-center mt-3'>falta completar un Campo!</p>" ;
+      resultadoNombre.innerHTML =  "<p class='text-danger'><b>falta completar el Nombre</b></p>" ;
       return false;
     } else {
-        resultado.innerHTML = "" ;
+        resultadoNombre.innerHTML = "" ;
     }
 
     if (telefono === "") {
-        resultado.innerHTML = "<p class='text-white bg-danger text-center mt-3'>falta completar un Campo!</p>" ;
+        resultadoTelefono.innerHTML = "<p class='text-danger'><b>falta completar el Telefono</b></p>" ;
         return false;
     } else {
-          resultado.innerHTML = "" ;
+          resultadoTelefono.innerHTML = "" ;
     }
 
     if (email === "") {
-        resultado.innerHTML = "<p class='text-white bg-danger text-center mt-3'>falta completar un Campo!</p>" ;
+        resultadoEmail.innerHTML = "<p class='text-danger'><b>falta completar el Email</b></p>" ;
         return false;
     } else {
-          resultado.innerHTML = "" ;
+          resultadoEmail.innerHTML = "" ;
     }
 
     if (direccion === "") {
-        resultado.innerHTML = "<p class='text-white bg-danger text-center mt-3'>falta completar un Campo!</p>" ;
+        resultadoDireccion.innerHTML = "<p class='text-danger'><b>falta completar la Direccion</b></p>" ;
         return false;
     } else {
-          resultado.innerHTML = "" ;
+          resultadoDireccion.innerHTML = "" ;
     }
 
     guardarDatos (nombre,telefono,email,direccion) ;
@@ -61,12 +60,13 @@ function guardarDatos (nombre,telefono ,email ,direccion) {
     
     // agrego nuevo contenido al html
     let nuevainfo = document.createElement("div");
-     nuevainfo.innerHTML = `<div class="container-fluid ">
-     <div class="conteiner">
-       <h3 class="texto-fincompra">GRACIAS POR TU COMPRA</h3>
-       <a class="btn btn-primary text-white" href="../index.html">Volver al Inicio</a>
-     </div>
- </div>` ;
+     nuevainfo.innerHTML = `
+            <div class="container-fluid ">
+                <div class="conteiner">
+                      <h3 class="texto-fincompra">GRACIAS POR TU COMPRA</h3>
+                      <a class="btn btn-primary text-white" href="../index.html">Volver al Inicio</a>
+                </div>
+            </div>` ;
 
      nuevainfo.classList = "info-registo" ;
      formulario.appendChild(nuevainfo);

@@ -1,33 +1,33 @@
 let productos = [
     {
         id:1,
-        nombre: "SILLA COOLER MASTER CALIBER R1 S PINK / WHITE",
+        nombre: "Silla Coller Master Caliber R1 S Pink-White",
         precio: 68249 ,
         imagen: "../img/silla1.png",
     },
     {   id:2,
-        nombre: "SILLA CORSAIR T3 RUSH CHARCOAL / GREY",
+        nombre: "Silla Corsair T3 Rush Charcoal-Grey",
         precio: 109990 ,
         imagen: "../img/sillas7.jpg",
     },
     {   id:3,
-        nombre: "SILLA COOLER MASTER CALIBER PURPLE CAMO",
+        nombre: "Silla Coller Master Caliber Purpre Come",
         precio: 68249 ,
         imagen: "../img/silla3.png",
     },
     {   id:4,
-        nombre: "SILLA COOLER MASTER CALIBER R2 BLACK/PURPLE",
+        nombre: "Silla Coller Master Caliber R2 Black-Purple",
         precio: 73499 ,
         imagen: "../img/silla4.png",
     },
     {   id:5,
-        nombre: "SILLA COOLER MASTER CALIBER R2C GREY",
+        nombre: "Silla Coller Master Caliber R2C Grey",
         precio: 87139 ,
         imagen: "../img/silla5.png",
         
     },
     {   id:6,
-        nombre: "SILLA COOLER MASTER CALIBER X1C COOLIN GREY",
+        nombre: "Silla Coller Master Caliber X1C Coolin Grey",
         precio: 110248 ,
         imagen: "../img/silla6.png",      
     },
@@ -55,7 +55,7 @@ function renderizarProductos() {
         <div class="card border-0">
             <img src="${producto.imagen}" class="card-img" alt="${producto.nombre}">
             <div class="card-body">
-              <h2 class="card-nombre text-center">${producto.nombre}</h2>
+              <h3 class="card-nombre text-center">${producto.nombre}</h3>
               <h3 class="card-text text-center">$${producto.precio}</h3>
               <p class="card-text text-center" title="Agrgar al Carrito"><a href="#" class="btn btn-primary" onclick="agregarCarrito(${producto.id})">AGREGAR</a></p>
             </div>

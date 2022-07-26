@@ -16,7 +16,7 @@ let productos = [
         imagen: "../img/tecladoharper.jpg",
     },
     {   id:4,
-        nombre: "Teclado Redragon Fizz Pro",
+        nombre: "Teclado Redragon Fizz Pro K616",
         precio: 7377 ,
         imagen: "../img/tecladofizz.jpg",
     },
@@ -60,7 +60,7 @@ function renderizarProductos() {
     let contenido = "" ;
     
     for (let producto of productos) {
-        contenido += `<div class="col-md-6 col-lg-3 g-5">
+        contenido += `<div class="col-md-6 col-lg-3 g-4">
         <div class="card border-0">
             <img src="${producto.imagen}" class="card-img" alt="${producto.nombre}">
             <div class="card-body">
