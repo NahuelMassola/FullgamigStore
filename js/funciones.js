@@ -5,14 +5,14 @@ function productosCarrito() {
 }
 // Guarda en Local Storage los Productos agregados al carrito
 
-function guardarProductosCarrito(productos)  {
-    localStorage.setItem("carrito" , JSON.stringify(productos));
+function guardarProductosCarrito(data)  {
+    localStorage.setItem("carrito" , JSON.stringify(data));
 }
 
 // Buscar Productos
 
  function buscarProducto(id) {
-    let productos = productosLS();
+    let productos = productosLS() ;
     return productos.find(x => x.id == id);
 }
 
@@ -105,7 +105,7 @@ function eliminarProducto(id) {
         Swal.fire({
             position: 'center',
             icon: 'error',
-            title: 'Producto Agregado',
+            title: 'Producto Eliminado',
             showConfirmButton: false,
             timer: 1000
           })

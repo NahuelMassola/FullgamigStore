@@ -35,7 +35,7 @@ function renderizarProductosCarrito() {
                     <td><img src="../img/${producto.imagen}" clas="card-img" width="75px"></td>
                     <td class=" align-middle text-center" ><h4>${producto.nombre}</h4></td>
                     <td class="align-middle text-center"><h4>$${producto.precio}</h4></td>
-                    <td class="align-middle text-center"><a href="#" class="btn btn-secondary" onclick="agregarCarritoSumado(${producto.id})">+</a><b> ${producto.cantidad} </b><a href="" class="btn btn-secondary" onclick="eliminarProducto(${producto.id})">-</a></td>
+                    <td class="align-middle text-center"><a href="#" class="btn btn-secondary" onclick="eliminarProducto(${producto.id})">-</a><b> ${producto.cantidad} </b><a href="" class="btn btn-secondary" onclick="agregarCarritoSumado(${producto.id})">+</a></td>
                    <td class="align-middle text-center" ><h4> Total: $ ${precio}</h4></td>
                     </tr>
             `;

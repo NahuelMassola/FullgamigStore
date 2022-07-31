@@ -1,0 +1,38 @@
+[{
+    "id":38,
+    "nombre": "Silla Coller Master Caliber R1 S Pink-White",
+    "precio": 68249 ,
+    "imagen": "../img/silla1.png",
+    "categoria" : "Sillas"
+    
+},
+{   "id":39,
+    "nombre": "Silla Corsair T3 Rush Charcoal-Grey",
+    "precio": 109990 ,
+    "imagen": "../img/sillas7.jpg",
+    "categoria" : "Sillas"
+},
+{   "id":40,
+    "nombre": "Silla Coller Master Caliber Purpre Come",
+    "precio": 68249 ,
+    "imagen": "../img/silla3.png",
+    "categoria" : "Sillas"
+},
+{   "id":41,
+    "nombre": "Silla Coller Master Caliber R2 Black-Purple",
+    "precio": 73499 ,
+    "imagen": "../img/silla4.png",
+    "categoria" : "Sillas"
+},
+{   "id":42,
+    "nombre": "Silla Coller Master Caliber R2C Grey",
+    "precio": 87139 ,
+    "imagen": "../img/silla5.png",
+    "categoria" : "Sillas"
+},
+{   "id":43,
+    "nombre": "Silla Coller Master Caliber X1C Coolin Grey",
+    "precio": 110248 ,
+    "imagen": "../img/silla6.png",  
+    "categoria" : "Sillas"    
+}]

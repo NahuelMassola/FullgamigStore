@@ -1,0 +1,52 @@
+
+    [{
+        "id":1,
+        "nombre": "Auriculares Pandora 2 ",
+        "precio": 5890 ,
+        "imagen": "../img/auricularespandora2.jpg",
+        "categoria": "Auriculares"
+
+    },
+    {   "id":2,
+        "nombre": "Auriculares Icon H520",
+        "precio": 11398 ,
+        "imagen": "../img/auricularesicon.jpg",
+        "categoria": "Auriculares"
+    },
+    {   "id":3,
+        "nombre": "Auriculares Pelops 2.4G",
+        "precio": 9451 ,
+        "imagen": "../img/auricularespelops.jpg",
+        "categoria": "Auriculares"
+    },
+    {   "id":4,
+        "nombre": "Auriculares Ares H120",
+        "precio": 2592 ,
+        "imagen": "../img/auriculares ares.jpg",
+        "categoria": "Auriculares"
+    },
+    {   "id":5,
+        "nombre": "Auriculares Scylla H901",
+        "precio": 3569 ,
+        "imagen": "../img/auriculares scylla.jpg",
+        "categoria": "Auriculares"
+    },
+    {   "id":6,
+        "nombre": "Auriculares Pandora White",
+        "precio": 5720 ,
+        "imagen": "../img/auricularespandorawhite.jpg",
+        "categoria": "Auriculares"   
+    },
+    {   "id":7,
+        "nombre": "Auriculares Lamia H320",
+        "precio": 6876 ,
+        "imagen": "../img/auriculareslamia.jpg",
+        "categoria": "Auriculares"
+    }, 
+    {   "id":8,
+        "nombre": "Auriculares Hylas  H260 ",
+        "precio": 3629 ,
+        "imagen": "../img/auriculareshylas.jpg",
+        "categoria": "Auriculares"
+    }]
+        

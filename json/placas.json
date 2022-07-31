@@ -1,0 +1,49 @@
+[{
+    "id": 29,
+    "nombre": "Colorful RTX3080 TI OC12GB GDDR6",
+    "precio": 254419 ,
+    "imagen": "../img/rtx380ti.jpg",
+    "categoria": "Placas"
+},
+{   "id":30,
+    "nombre": "Colorful RTX3060 TI OC 8GB GDDR6",
+    "precio": 123689 ,
+    "imagen": "../img/rtx360ti.jpg",
+    "categoria": "Placas"
+},
+{   "id":31,
+    "nombre": "Colorful RTX3070 TI OC8GB GDDR6",
+    "precio": 183019 ,
+    "imagen": "../img/rtx370ti.jpg",
+    "categoria": "Placas"
+},
+{   "id":32,
+    "nombre": "Colorful RTX3070 Ti OC 8GB GDDR6",
+    "precio": 182019 ,
+    "imagen": "../img/rtx370tiw.jpg",
+    "categoria": "Placas"
+},
+{   "id":33,
+    "nombre": "Colorful RTX3080 OC 10GB GDDR6X",
+    "precio": 190399 ,
+    "imagen": "../img/rtx380.jpg",
+    "categoria": "Placas"
+},
+{   "id":34,
+    "nombre": "Colorful RTX3060 OC 12GB GDDR6",
+    "precio": 105579 ,
+    "imagen": "../img/rtx360.jpg",
+    "categoria": "Placas"      
+},
+{   "id":35,
+    "nombre": "Colorful GTX1660 6GB GDDR5 Super",
+    "precio": 65359 ,
+    "imagen": "../img/gtx1660.jpg", 
+    "categoria": "Placas"
+}, 
+{   "id":36,
+    "nombre": "Colorful RTX3060 TI OC 8GB GDDR6 ",
+    "precio": 124689 ,
+    "imagen": "../img/rtx360ti.jpg",
+    "categoria": "Placas"
+}]

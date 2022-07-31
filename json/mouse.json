@@ -1,0 +1,49 @@
+[{
+    "id":17,
+    "nombre": "Mouse Redragon Griffin M607",
+    "precio": 2371 ,
+    "imagen": "../img/MouseGrifin.jpg",
+    "categoria": "Mouses"
+},
+{   "id":18,
+    "nombre": "Mouse Redragon Centropho M601",
+    "precio": 2167 ,
+    "imagen": "../img/mousecentrophorus.jpg",
+    "categoria": "Mouses"
+},
+{   "id":19,
+    "nombre": "Mouse Redragon Invader M719",
+    "precio": 2575 ,
+    "imagen": "../img/mouseinvader.jpg",
+    "categoria": "Mouses"
+},
+{   "id":20,
+    "nombre": "Mouse Redragon Griffin white M607",
+    "precio": 2481 ,
+    "imagen": "../img/MouseGrifinblanco.jpg",
+    "categoria": "Mouses"
+},
+{   "id":21,
+    "nombre": "Mouse Redragon Cobra white M711",
+    "precio": 3348 ,
+    "imagen": "../img/mousecobrawhite.jpg",
+    "categoria": "Mouses"
+},
+{   "id":22,
+    "nombre": "Mouse Redragon Impact M908",
+    "precio": 4088 ,
+    "imagen": "../img/mouseimpact.jpg",  
+    "categoria": "Mouses"    
+},
+{   "id":23,
+    "nombre": "Mouse Redragon Memealion M710",
+    "precio": 2609 ,
+    "imagen": "../img/mousememealion.jpg",
+    "categoria": "Mouses" 
+}, 
+{   "id":24,
+    "nombre": "Mouse Redragon Lonewolf M721",
+    "precio": 3629 ,
+    "imagen": "../img/mouselonewolf.jpg",
+    "categoria": "Mouses"
+}]

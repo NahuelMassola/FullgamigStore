@@ -1,0 +1,49 @@
+[{
+    "id":9,
+    "nombre": "Monitor Philips 19 Pulgadas",
+    "precio": 35599 ,
+    "imagen": "../img/philips19.jpg",
+    "categoria": "Monitores"
+},
+{   "id":10,
+    "nombre": "Monitor Philips 22 Pulgadas",
+    "precio": 39900 ,
+    "imagen": "../img/philips22.jpg",
+    "categoria": "Monitores"
+},
+{   "id":11,
+    "nombre": "Monitor Philips 27 Pulgadas",
+    "precio": 41300 ,
+    "imagen": "../img/philips27.jpg",
+    "categoria": "Monitores"
+},
+{   "id":12,
+    "nombre": "Monitor Samsung 32 Pulgadas",
+    "precio": 35599 ,
+    "imagen": "../img/samsung 32.png",
+    "categoria": "Monitores"
+},
+{   "id":13,
+    "nombre": "Monitor Samsung 22 Pulgadas",
+    "precio": 45999 ,
+    "imagen": "../img/samsung22.png",
+    "categoria": "Monitores"
+},
+{   "id":14,
+    "nombre": "Monitor Samsung 27 Pulgadas Curvo",
+    "precio": 54989 ,
+    "imagen": "../img/samsung27.png",  
+    "categoria": "Monitores"    
+},
+{   "id":15,
+    "nombre": "Monitor Samsung 24 Pulgadas Curvo",
+    "precio": 46990 ,
+    "imagen": "../img/samsungcurvo24.png", 
+    "categoria": "Monitores"
+}, 
+{   "id":16,
+    "nombre": "Monitor Samsung 27 Pulgadas 4k",
+    "precio": 63990 ,
+    "imagen": "../img/samsung274k.jpg",
+    "categoria": "Monitores"
+}]

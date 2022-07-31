@@ -1,0 +1,49 @@
+[ {
+    "id":44,
+    "nombre": "Teclado Redragon Kumara K552",
+    "precio": 8339 ,
+    "imagen": "../img/tecladokumara.jpg",
+    "categoria" : "Teclados" 
+},
+{   "id":45,
+    "nombre": "Teclado Redragon Shiva White K512",
+    "precio": 4649 ,
+    "imagen": "../img/tecladoshiva.jpg",
+    "categoria" : "Teclados" 
+},
+{   "id":46,
+    "nombre": "Teclado Redragon Harper Pro K503",
+    "precio": 4547 ,
+    "imagen": "../img/tecladoharper.jpg",
+    "categoria" : "Teclados" 
+},
+{   "id":47,
+    "nombre": "Teclado Redragon Fizz Pro K616",
+    "precio": 7377 ,
+    "imagen": "../img/tecladofizz.jpg",
+    "categoria" : "Teclados" 
+},
+{   "id":48,
+    "nombre": "Teclado Redragon draconic K530",
+    "precio": 9570 ,
+    "imagen": "../img/tecladodraconic.jpg",
+    "categoria" : "Teclados" 
+},
+{   "id":49,
+    "nombre": "Teclado Redragon Vara K551",
+    "precio": 7394 ,
+    "imagen": "../img/tecladovara.jpg",
+    "categoria" : "Teclados"       
+},
+{   "id":50,
+    "nombre": "Teclado Redragon Kumara K552",
+    "precio": 5881 ,
+    "imagen": "../img/tecladokumarawhite.jpg", 
+    "categoria" : "Teclados" 
+}, 
+{   "id":51,
+    "nombre": "Teclado Redragon Fizz Pro K616 ",
+    "precio": 7360 ,
+    "imagen": "../img/tecladofizzpro.jpg",
+    "categoria" : "Teclados" 
+}]
